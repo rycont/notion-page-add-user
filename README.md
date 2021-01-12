@@ -1,4 +1,4 @@
-# Notion Page Invitator
+# Notion Page Add User
 노션 페이지에 이메일로 사용자를 초대하는 Deno 스크립트
 
 ```typescript
